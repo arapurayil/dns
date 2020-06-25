@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Encrypted DNS Resolver — DoH|DoT|DNSCryptv2|Wireguard"
+description: "Encrypted DNS Resolver — DoH|DoT|DNSCryptv2 + Ad blocking"
 permalink: /
 ---
 <script type="module">
