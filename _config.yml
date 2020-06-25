@@ -1,0 +1,42 @@
+theme: "just-the-docs"
+
+title: Arapurayil's DNS
+description: A privacy focused encrypted DNS server
+baseurl: "/"
+url: "https://www.dns.arapurayil.com"
+
+permalink: pretty
+exclude: ["Gemfile", "README.md", "LICENSE"]
+
+# Set a path/url to a logo that will be displayed instead of the title
+#logo: "/assets/images/logo.png"
+
+search_enabled: false
+search_tokenizer_separator: /[\s/]+/
+
+heading_anchors: true
+
+aux_links:
+  "Arapurayil's DNS on GitHub":
+    - "//github.com/arapurayil/dns"
+
+footer_content: "Copyright &copy; <script>(new Date).getFullYear();</script> Zachariah Arapurayil. <a href=\"https://dns.arapurayil.com/privacy-policy\">Privacy Policy</a>. Distributed by a <a href=\"https://github.com/arapurayil/dns/blob/master/LICENSE\">GPL v3 license.</a>"
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: dark
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+#ga_tracking:
+
+plugins:
+  - jekyll-seo-tag
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
