@@ -82,7 +82,8 @@ A few systems support encrypted DNS protocols natively but for most systems nati
 
 <dl style="overflow: auto;">
   <dt>DNS-over-HTTPS</dt>
-  <dd>Android: <a href="https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen">Nebulo</a>
+  <dd>iOS: <a href="https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351">DNSCloak</a>
+  <br>Android: <a href="https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen">Nebulo</a>
   <br>Windows: <a href="https://simplednscrypt.org/">Simple DNSCrypt</a>, <a href="https://github.com/DNSCrypt/dnscrypt-proxy">dnscrypt-proxy</a>
   <br>Linux: <a href="https://github.com/DNSCrypt/dnscrypt-proxy">dnscrypt-proxy</a></dd>
   <dt>DNS-over-TLS</dt>
@@ -94,7 +95,7 @@ A few systems support encrypted DNS protocols natively but for most systems nati
   <br>Linux: <a href="https://github.com/DNSCrypt/dnscrypt-proxy">dnscrypt-proxy</a></dd>
 </dl>
 
-Some browsers also offer support, but bear in mind that they offer encryption to only those queries you make inside the browser. 
+Some browsers also offer support for encrypted DNS, but bear in mind that they offer encryption to only those queries you make inside the browser. 
 - [Firefox](https://support.mozilla.org/en-US/kb/firefox-dns-over-https#w_manually-enabling-and-disabling-dns-over-https)
 - [Bromite](https://www.bromite.org/doh)
 
