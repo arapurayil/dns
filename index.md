@@ -26,7 +26,7 @@ For a private, safer and faster internet experience
 - [x] QNAME minimization
 - [x] DNS-over-HTTPS
 - [x] DNS-over-TLS
-- [x] DNScrypt v2
+- [x] ~~DNScrypt v2~~
 
 This hobby project is meant to raise awareness on DNS Privacy and encourage the use of encrypted DNS protocols
 
