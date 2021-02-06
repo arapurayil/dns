@@ -1,0 +1,19 @@
+{
+  "name": "DNS by arapurayil",
+  "short_name": "DNS",
+  "icons": [
+    {
+      "src": "logo-192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo-512.png",
+      "sizes": "512x512"
+    }
+  ],
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#10c186",
+  "background_color": "#FFF"
+}

@@ -2,7 +2,7 @@
 
 A privacy focussed encrypted public resolver hosted in Mumbai, India.
 
-Supports DoH, DoT, and DoQ protocols.
+Supports DoH, DoT, DoQ  and DNSCrypt protocols.
 
 Blocks ads, trackers, crypto-jacking, malware, phishing, etc.
 

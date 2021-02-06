@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerURL</key>
+					<string>https://dns.arapurayil.com/dns-query</string>
+				</dict>
+				<key>Name</key>
+				<string>dns.arapurayil.com DoH</string>
+				<key>PayloadDescription</key>
+				<string>Configures device to use DNS by arapurayil</string>
+				<key>PayloadDisplayName</key>
+				<string>dns.arapurayil.com DoH</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.14967474-ea25-447d-910f-58d04d252571</string>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadUUID</key>
+				<string>27d6ea49-5618-452b-bafb-e09baf06379c</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>Adds DNS by arapurayil to Big Sur and iOS 14 or newer systems</string>
+		<key>PayloadDisplayName</key>
+		<string>dns.arapurayil.com DoH</string>
+		<key>PayloadIdentifier</key>
+		<string>5bbe0d2c-e9b6-4fb0-9a46-d2577b3a6b77</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>62beaa81-e0ec-4995-879a-c4f131850fe5</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
