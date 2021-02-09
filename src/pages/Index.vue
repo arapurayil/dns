@@ -6,7 +6,7 @@
 			<p class="conf">
 				<strong>DNS-over-TLS:</strong> <code class="language-text">tls://dns.arapurayil.com</code><br>
 				<strong>DNS-over-HTTPS:</strong> <code class="language-text">https://dns.arapurayil.com/dns-query</code><br>
-				<strong>DNS-over-QUIC:</strong> <code class="language-text">quic://dns.arapurayil:784</code><br>
+				<strong>DNS-over-QUIC:</strong> <code class="language-text">quic://dns.arapurayil.com:784</code><br>
         <strong>DNSCrypt (IPv4):</strong> <code class="language-text">sdns://AQMAAAAAAAAAEDMuNy4xNzYuMTIzOjg0NDMggyXjcEBxUFeQc2O5FaBzadiWC6vE6NTTQP84IY-Xfl8dMi5kbnNjcnlwdC1jZXJ0LmFyYXB1cmF5aWwtaW4</code><br>
         <strong>DNSCrypt (IPv6):</strong> <code class="language-text">sdns://AQMAAAAAAAAALFsyNDA2OmRhMWE6YzU5OmFlMDA6MjBmOmRiZjU6YTEyYzo1YWZiXTo4NDQzIIMl43BAcVBXkHNjuRWgc2nYlgurxOjU00D_OCGPl35fHTIuZG5zY3J5cHQtY2VydC5hcmFwdXJheWlsLWlu</code><br>
 		<h3 id="implementations"><a href="#implementations" aria-hidden="true"><span class="icon icon-link"></span></a><u>Implementations</u></h3>
