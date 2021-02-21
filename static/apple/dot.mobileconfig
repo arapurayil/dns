@@ -9,11 +9,6 @@
 <dict>
 <key>DNSProtocol</key>
 <string>TLS</string>
-<key>ServerAddresses</key>
-<array>
-<string>2406:da1a:c59:ae00:20f:dbf5:a12c:5afb</string>
-<string>3.7.176.123</string>
-</array>
 <key>ServerName</key>
 <string>dns.arapurayil.com</string>
 </dict>
@@ -37,15 +32,15 @@
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>Configures device to use DNS by arapurayil Encrypted DNS over TLS</string>
+<string>Configures device to use 'DNS by arapurayil' Encrypted DNS over TLS</string>
 <key>PayloadDisplayName</key>
-<string>DNS by arapurayil DNS over TLS</string>
+<string>'DNS by arapurayil' DNS over TLS</string>
 <key>PayloadIdentifier</key>
-<string>com.apple.dnsSettings.managed.21c15ca3-764c-4be0-89c9-1590855c9566</string>
+<string>com.apple.dnsSettings.managed.3c6baf83-ca0b-40d9-9a61-1654443dd335</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
-<string>c7d881e2-52e3-4d99-83d4-889d95b50864</string>
+<string>112c4747-cf64-488d-bce1-f8c8b4ad58ea</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 <key>ProhibitDisablement</key>
@@ -53,17 +48,17 @@
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>Adds DNS by arapurayil Encrypted DNS over TLS to Big Sur and iOS 14 based systems</string>
+<string>Adds 'DNS by arapurayil' Encrypted DNS over TLS to Big Sur and iOS 14 based systems</string>
 <key>PayloadDisplayName</key>
 <string>DNS by arapurayil DNS over TLS</string>
 <key>PayloadIdentifier</key>
-<string>com.notjakob.apple-dns.1c0af51d-842a-4aa3-b5b3-2f7deeafac05</string>
+<string>com.notjakob.apple-dns.c45b40ac-9b70-4a84-8ee0-b7e528f09ebb</string>
 <key>PayloadRemovalDisallowed</key>
 <false/>
 <key>PayloadType</key>
 <string>Configuration</string>
 <key>PayloadUUID</key>
-<string>c156736c-023a-42af-9b99-cbce1787adc0</string>
+<string>257d2ff6-c436-4675-9312-48adbec4bac1</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 </dict>

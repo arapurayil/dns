@@ -9,13 +9,8 @@
 <dict>
 <key>DNSProtocol</key>
 <string>HTTPS</string>
-<key>ServerAddresses</key>
-<array>
-<string>2406:da1a:c59:ae00:20f:dbf5:a12c:5afb</string>
-<string>3.7.176.123</string>
-</array>
 <key>ServerURL</key>
-<string>https://dns.arapurayil.com/dns-query</string>
+<string>dns.arapurayil.com</string>
 </dict>
 <key>OnDemandRules</key>
 <array>
@@ -37,15 +32,15 @@
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>Configures device to use DNS by arapurayil Encrypted DNS over HTTPS</string>
+<string>Configures device to use 'DNS by arapurayil' Encrypted DNS over HTTPS</string>
 <key>PayloadDisplayName</key>
-<string>DNS by arapurayil DNS over HTTPS</string>
+<string>'DNS by arapurayil' DNS over HTTPS</string>
 <key>PayloadIdentifier</key>
-<string>com.apple.dnsSettings.managed.87f20c8d-0257-4555-a636-d9ddebe892a6</string>
+<string>com.apple.dnsSettings.managed.fd5aa30e-1cda-4613-a9ce-5a9deb9128b5</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
-<string>cb5e826e-0637-4467-9791-d17a882dfeb5</string>
+<string>bf79661e-4efc-4110-9216-c6d214a79265</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 <key>ProhibitDisablement</key>
@@ -53,17 +48,17 @@
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>Adds DNS by arapurayil Encrypted DNS over HTTPS to Big Sur and iOS 14 based systems</string>
+<string>Adds 'DNS by arapurayil' Encrypted DNS'- over HTTPS to Big Sur and iOS 14 based systems</string>
 <key>PayloadDisplayName</key>
 <string>DNS by arapurayil DNS over HTTPS</string>
 <key>PayloadIdentifier</key>
-<string>com.notjakob.apple-dns.34d50b01-82a9-4628-b9c3-3c4eb5b41346</string>
+<string>com.notjakob.apple-dns.30229972-df37-4e85-87df-a942fcc1e782</string>
 <key>PayloadRemovalDisallowed</key>
 <false/>
 <key>PayloadType</key>
 <string>Configuration</string>
 <key>PayloadUUID</key>
-<string>b96dbac6-154f-404f-9545-556f9f6009d1</string>
+<string>52066114-1d50-4bd4-996a-6d9c32a94780</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 </dict>
